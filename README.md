@@ -1,2 +1,0 @@
-# Quadcopter
-CSE 190
