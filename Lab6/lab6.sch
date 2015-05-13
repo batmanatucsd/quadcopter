@@ -2598,7 +2598,7 @@ Single endded antenna. Common with smaller chip antennas. CHIP4 package is the G
 <pinref part="C15" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="RFP" class="0">
+<net name="RF_P" class="0">
 <segment>
 <wire x1="-17.78" y1="-33.02" x2="-15.24" y2="-33.02" width="0.1524" layer="91"/>
 <label x="-15.24" y="-33.02" size="1.016" layer="95" xref="yes"/>
@@ -2611,7 +2611,7 @@ Single endded antenna. Common with smaller chip antennas. CHIP4 package is the G
 <label x="142.24" y="-83.82" size="1.016" layer="95" rot="R180" xref="yes"/>
 </segment>
 </net>
-<net name="RFN" class="0">
+<net name="RF_N" class="0">
 <segment>
 <wire x1="-17.78" y1="-35.56" x2="-15.24" y2="-35.56" width="0.1524" layer="91"/>
 <label x="-15.24" y="-35.56" size="1.016" layer="95" xref="yes"/>
