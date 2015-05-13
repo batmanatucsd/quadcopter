@@ -3827,13 +3827,6 @@ design rules under a new name.</description>
 <wire x1="21.5" y1="-4.36" x2="21.48" y2="-4.34" width="0.8128" layer="1"/>
 <wire x1="21.48" y1="-4.34" x2="24" y2="-1.82" width="0.8128" layer="1"/>
 <wire x1="24" y1="-1.82" x2="24" y2="-1.27" width="0.8128" layer="1"/>
-<wire x1="-4.6" y1="17.3" x2="-4.6" y2="19" width="0.8128" layer="1"/>
-<wire x1="-23.15" y1="-1.25" x2="-4.6" y2="17.3" width="0.8128" layer="16"/>
-<wire x1="-24" y1="-1.25" x2="-23.15" y2="-1.25" width="0.8128" layer="16"/>
-<wire x1="-24" y1="-1.25" x2="-24" y2="-1.27" width="0.8128" layer="16"/>
-<via x="-4.6" y="17.3" extent="1-16" drill="0.381"/>
-<wire x1="-4.6" y1="19" x2="-2.44" y2="21.16" width="0.8128" layer="1"/>
-<wire x1="-2.44" y1="21.16" x2="-2.04" y2="21.16" width="0.8128" layer="1"/>
 <wire x1="-2.04" y1="21.16" x2="-2.04" y2="23.23" width="0.8128" layer="1"/>
 <wire x1="-2.04" y1="23.23" x2="-1.27" y2="24" width="0.8128" layer="1"/>
 <wire x1="-22.8" y1="-13" x2="-21.1" y2="-13" width="0.8128" layer="1"/>
@@ -3841,6 +3834,22 @@ design rules under a new name.</description>
 <wire x1="-21.05" y1="-13.05" x2="-21.05" y2="-14.85" width="0.8128" layer="1"/>
 <wire x1="-21.05" y1="-14.85" x2="-18.4" y2="-17.5" width="0.8128" layer="1"/>
 <wire x1="-18.4" y1="-14.85" x2="-18.4" y2="-14.9" width="0.254" layer="1"/>
+<wire x1="8.7" y1="12.5" x2="17.8" y2="12.5" width="0.8128" layer="1"/>
+<wire x1="0" y1="21.2" x2="8.7" y2="12.5" width="0.8128" layer="16"/>
+<wire x1="-0.8" y1="21.2" x2="0" y2="21.2" width="0.8128" layer="16"/>
+<wire x1="-1.7" y1="21.2" x2="-0.8" y2="21.2" width="0.8128" layer="1"/>
+<wire x1="-1.7" y1="21.2" x2="-2.04" y2="21.16" width="0.8128" layer="1"/>
+<via x="8.7" y="12.5" extent="1-16" drill="0.6"/>
+<via x="-0.8" y="21.2" extent="1-16" drill="0.6"/>
+<wire x1="22.8" y1="0.1" x2="23.8" y2="-0.9" width="0.8128" layer="1"/>
+<wire x1="19.6" y1="3.3" x2="22.8" y2="0.1" width="0.8128" layer="16"/>
+<wire x1="19.6" y1="11.7" x2="19.6" y2="3.3" width="0.8128" layer="16"/>
+<wire x1="18.3" y1="11.7" x2="19.6" y2="11.7" width="0.8128" layer="16"/>
+<wire x1="17.9" y1="12.1" x2="18.3" y2="11.7" width="0.8128" layer="1"/>
+<wire x1="23.8" y1="-0.9" x2="24" y2="-1.27" width="0.8128" layer="1"/>
+<wire x1="17.9" y1="12.1" x2="17.8" y2="12.5" width="0.8128" layer="1"/>
+<via x="22.8" y="0.1" extent="1-16" drill="0.6"/>
+<via x="18.3" y="11.7" extent="1-16" drill="0.6"/>
 </signal>
 <signal name="N$2">
 <contactref element="U$2" pad="4"/>
