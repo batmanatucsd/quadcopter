@@ -1,0 +1,27 @@
+Part Description, Digi-key Part Number, Quantity
+Chip Antenna, N/A, 1
+ATmega128RFA1, N/A, 1
+AVR ISP 6 Pin, N/A, 1
+Balun, N/A, 1
+Header 2 Connector, N/A, 5
+SPDT Switch, N/A, 1
+LP3985IM5-3.0 Linear Regulator, N/A, 1
+FTDI Header, N/A, 2
+20 MHz Crystal, N/A, 1
+IMU, N/A, 1
+Capacitor #1uF#, 399-1284-1-ND, 7
+Capacitor #.01uF#, 490-1664-1-ND, 1
+Capacitor #4.7uF#, 587-1297-1-ND, 1
+Capacitor #.22uF#, 399-3491-1-ND, 1
+Capacitor #.1uF#, 1276-1003-1-ND, 1
+Capacitor #10uF#, 490-3340-1-ND, 1
+Capacitor #22pF#, 399-1113-1-ND, 1
+Capacitor #.75pF#, 490-3585-1-ND, 1
+Capacitor #12pF#, 1276-1120-1-ND, 2
+Resistor #330#, 311-330ARCT-ND, 3
+Resistor #10k#, 311-10KARCT-ND, 7
+Resistor #0#, 311-0.0ARCT-ND, 2
+LED #red#, 160-1447-1-ND, 1
+LED #green#, 160-1435-1-ND, 2
+Mosfet, SI2302CDS-T1-E3TR-ND, 4
+Diode, BAS16WS-E3-08TR-ND, 4
